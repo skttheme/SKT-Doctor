@@ -1,4 +1,4 @@
-**SKT Doctor**
+# SKT Doctor
 
 **SKT GB Doctor** is a clean and caring WordPress theme made for health and clinic websites. It works well as a **Free Medical Clinic WordPress Theme** for small clinics, doctors, and health centers that want a simple online presence. The layout is calm, clear, and easy to read.
 
